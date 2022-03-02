@@ -1,7 +1,7 @@
 function myFunction() {
   // continents
   var statesArr = ["Alabama", "Alaska", "Arizona", "Hawaii", "Maine", "Texas"];
-  var capitalsArr = ["bruh", "hello", "eijfdksvb", "fvd c", "efwvd", "wfvd"];
+  var capitalsArr = ["Montgomery", "Juneau", "Pheonix", "Honolulu", "Augusta", "Austin"];
   var dropdownSelect = document.getElementById("states");
 
   // grab text content
